@@ -1,0 +1,16 @@
+traceroute to www.uq.edu.au (130.102.184.3), 30 hops max, 60 byte packets
+ 1  csee-rtf-rtr-vl3803.SUNet (171.64.15.3)  0.500 ms csee-west-rtr-vl3803.SUNet (171.64.15.2)  0.266 ms csee-rtf-rtr-vl3803.SUNet (171.64.15.3)  0.356 ms
+ 2  hpr-svl-rtr-vlan12.SUNet (171.66.0.214)  3.976 ms  0.724 ms  0.630 ms
+ 3  hpr-svl-hpr3--stan-100ge.cenic.net (137.164.27.60)  1.600 ms  1.545 ms  1.565 ms
+ 4  aarnet-2-is-jmb-778.sttlwa.pacificwave.net (207.231.245.4)  18.478 ms  18.422 ms  18.367 ms
+ 5  et-10-0-5.170.pe1.brwy.nsw.aarnet.net.au (113.197.15.62)  155.232 ms  155.176 ms  155.121 ms
+ 6  et-7-1-0.pe1.brwy.nsw.aarnet.net.au (113.197.15.13)  155.288 ms  155.706 ms  155.505 ms
+ 7  et-0-3-0.pe1.gdpt.qld.aarnet.net.au (113.197.15.17)  195.282 ms  195.115 ms  195.055 ms
+ 8  138.44.129.158 (138.44.129.158)  170.939 ms  171.321 ms  170.939 ms
+ 9  fw-a-gw10.router.uq.edu.au (130.102.0.193)  171.092 ms  171.164 ms  171.077 ms
+10  se10-fw-a.router.uq.edu.au (130.102.159.61)  181.355 ms  171.797 ms  171.840 ms
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  www.its.uq.edu.au (130.102.184.3)  171.238 ms  171.246 ms  171.052 ms

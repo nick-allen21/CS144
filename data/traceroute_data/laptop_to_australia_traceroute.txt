@@ -1,0 +1,16 @@
+ 1  10.27.112.2 (10.27.112.2)  3.651 ms  3.235 ms  2.117 ms
+ 2  xb-east-rtr-vlan11.sunet (171.64.0.194)  3.217 ms  2.609 ms  3.986 ms
+ 3  hpr-svl-rtr-vlan3.sunet (171.66.255.147)  6.783 ms  3.189 ms  4.382 ms
+ 4  hpr-svl-hpr3--stan-100ge.cenic.net (137.164.27.60)  4.615 ms  3.316 ms  3.399 ms
+ 5  aarnet-2-is-jmb-778.sttlwa.pacificwave.net (207.231.245.4)  19.882 ms  20.543 ms  21.804 ms
+ 6  et-10-0-5.170.pe1.brwy.nsw.aarnet.net.au (113.197.15.62)  234.173 ms  159.678 ms  157.617 ms
+ 7  et-7-1-0.pe1.brwy.nsw.aarnet.net.au (113.197.15.13)  200.378 ms  218.672 ms  157.709 ms
+ 8  et-0-3-0.pe1.gdpt.qld.aarnet.net.au (113.197.15.17)  172.916 ms  176.652 ms  172.709 ms
+ 9  138.44.129.158 (138.44.129.158)  177.420 ms  174.549 ms  174.031 ms
+10  fw-a-gw10.router.uq.edu.au (130.102.0.193)  201.512 ms  180.045 ms  224.624 ms
+11  se10-fw-a.router.uq.edu.au (130.102.159.61)  263.520 ms  174.616 ms  173.740 ms
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  www-test.uq.edu.au (130.102.184.3)  174.190 ms  238.289 ms  173.657 ms
